@@ -13,7 +13,7 @@ pipeline {
         DEV_PROJECT = "mrkrit-books-dev"
         STAGE_PROJECT = "mrkrit-books-stage"
         APP_GIT_URL = "https://github.com/mrkrit/DO288-apps"
-        NEXUS_SERVER = "http://reponexus-common.apps.ocp-na2.prod.nextcle.com/sitory/nodejs"
+        NEXUS_SERVER = "http://reponexus-common.apps.ocp-na2.prod.nextcle.com/repository/nodejs"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "books"
